@@ -2,7 +2,7 @@
 
 My Master's thesis
 
-All the thesis code is in payannamev6 python notebook
+All the thesis code is in payanname.v6 python notebook
 
 ran the code with google colab GPU
 
